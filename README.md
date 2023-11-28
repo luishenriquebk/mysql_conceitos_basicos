@@ -38,13 +38,13 @@ INSERT INTO CLIENTES (NOME_CLIENTE, SEXO_CLIENTE, IDADE_CLIENTE) -- INSERINDO VA
 VALUES ('LUIS HENRIQUE', 'M', 25),
 	   ('LUCAS', 'F', 23),
 	   ('SAMUEL', '',  20);
-```
 
 A TABELA ATÉ AGORA:
 | id_cliente | nome_cliente | sexo_cliente | idade_cliente |
 | 1          | LUIS HENRIQUE| M            | 25            |
 | 2          | LUCAS        | F            | 23            |
 | 3          | SAMUEL       |              | 20            |
+```
 
 ### 3. Atualize o valor de uma coluna em um registro específico:
 
@@ -58,13 +58,12 @@ WHERE NOME_CLIENTE = 'LUCAS'; -- ATUALIZANDO O SEXO_CLIENTE PARA 'M' PARA O CLIE
 UPDATE CLIENTES
 SET SEXO_CLIENTE = 'M'
 WHERE NOME_CLIENTE = 'SAMUEL'; -- ATUALIZANDO O SEXO_CLIENTE PARA 'M' PARA O CLIENTE 'SAMUEL';
-```
 
 | id_cliente | nome_cliente | sexo_cliente | idade_cliente |
 | 1          | LUIS HENRIQUE| M            | 25            |
 | 2          | LUCAS        | M            | 23            |
 | 3          | SAMUEL       | M            | 20            |
-
+```
 
 ### 4. Excluir um registro da tabela:
 
@@ -73,8 +72,8 @@ Para excluir um registro(row) da tabela `CLIENTES` foi executado o seguinte coma
 ```sql
 DELETE FROM CLIENTES
 WHERE NOME_CLIENTE = 'SAMUEL'; -- DELETANDO UM REGISTRO DO CLIENTE 'SAMUEL' DA TABLE 'CLIENTES';
-```
 
 | id_cliente | nome_cliente | sexo_cliente | idade_cliente |
 | 1          | LUIS HENRIQUE| M            | 25            |
 | 2          | LUCAS        | M            | 23            |
+```
