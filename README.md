@@ -39,7 +39,6 @@ VALUES ('LUIS HENRIQUE', 'M', 25),
 	   ('LUCAS', 'F', 23),
 	   ('SAMUEL', '',  20);
 
-A TABELA ATÉ AGORA:
 | id_cliente | nome_cliente | sexo_cliente | idade_cliente |
 | 1          | LUIS HENRIQUE| M            | 25            |
 | 2          | LUCAS        | F            | 23            |
