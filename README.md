@@ -1,4 +1,4 @@
-# Primeiros Passos MySQL
+# Primeiros Passos MySQL 🐬
 
 Este repositório contém atividades realizadas no MySQL para praticar conceitos básicos de manipulação de dados em um banco de dados.
 
