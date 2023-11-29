@@ -1,6 +1,7 @@
 # Primeiros Passos MySQL 🐬
 
 Este repositório contém atividades realizadas no MySQL para praticar conceitos básicos de manipulação de dados em um banco de dados.
+Link do projeto: <https://drive.google.com/file/d/1U2HTin1kEvvbyufu3iesRQeBVP6JE0Al/view?usp=sharing>
 
 ## Atividades Realizadas:
 
@@ -76,6 +77,3 @@ WHERE NOME_CLIENTE = 'SAMUEL'; -- DELETANDO UM REGISTRO DO CLIENTE 'SAMUEL' DA T
 | 1          | LUIS HENRIQUE| M            | 25            |
 | 2          | LUCAS        | M            | 23            |
 ```
-
-Link do projeto:
-https://drive.google.com/file/d/1U2HTin1kEvvbyufu3iesRQeBVP6JE0Al/view?usp=sharing
