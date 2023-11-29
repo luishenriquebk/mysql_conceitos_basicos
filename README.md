@@ -1,7 +1,8 @@
 # Primeiros Passos MySQL 🐬
 
 Este repositório contém atividades realizadas no MySQL para praticar conceitos básicos de manipulação de dados em um banco de dados.
-Link do projeto: <https://drive.google.com/file/d/1U2HTin1kEvvbyufu3iesRQeBVP6JE0Al/view?usp=sharing>
+#### Link do projeto: 
+https://drive.google.com/file/d/1U2HTin1kEvvbyufu3iesRQeBVP6JE0Al/view?usp=sharing
 
 ## Atividades Realizadas:
 
